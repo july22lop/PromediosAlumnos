@@ -1,0 +1,10 @@
+C:\Users\MINEDUCYT\Desktop\POO\PromediosAlumnos\PromediosAlumnos\PromediosAlumnos\obj\Debug\PromediosAlumnos.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\Desktop\POO\PromediosAlumnos\PromediosAlumnos\PromediosAlumnos\obj\Debug\PromediosAlumnos.Form1.resources
+C:\Users\MINEDUCYT\Desktop\POO\PromediosAlumnos\PromediosAlumnos\PromediosAlumnos\obj\Debug\PromediosAlumnos.Properties.Resources.resources
+C:\Users\MINEDUCYT\Desktop\POO\PromediosAlumnos\PromediosAlumnos\PromediosAlumnos\obj\Debug\PromediosAlumnos.csproj.GenerateResource.cache
+C:\Users\MINEDUCYT\Desktop\POO\PromediosAlumnos\PromediosAlumnos\PromediosAlumnos\obj\Debug\PromediosAlumnos.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\Desktop\POO\PromediosAlumnos\PromediosAlumnos\PromediosAlumnos\bin\Debug\PromediosAlumnos.exe.config
+C:\Users\MINEDUCYT\Desktop\POO\PromediosAlumnos\PromediosAlumnos\PromediosAlumnos\bin\Debug\PromediosAlumnos.exe
+C:\Users\MINEDUCYT\Desktop\POO\PromediosAlumnos\PromediosAlumnos\PromediosAlumnos\bin\Debug\PromediosAlumnos.pdb
+C:\Users\MINEDUCYT\Desktop\POO\PromediosAlumnos\PromediosAlumnos\PromediosAlumnos\obj\Debug\PromediosAlumnos.exe
+C:\Users\MINEDUCYT\Desktop\POO\PromediosAlumnos\PromediosAlumnos\PromediosAlumnos\obj\Debug\PromediosAlumnos.pdb
